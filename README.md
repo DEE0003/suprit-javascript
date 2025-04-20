@@ -1,0 +1,2 @@
+# suprit-javascript
+just learning
